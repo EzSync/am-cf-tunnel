@@ -1,4 +1,4 @@
 chatgpt.com
 gemini.google.com
-perplexity.com
-twitch.tv
+perplexity.ai
+felo.ai
